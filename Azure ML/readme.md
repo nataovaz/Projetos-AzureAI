@@ -17,18 +17,12 @@ O exercício completo é estimado para ser concluído em aproximadamente 30 minu
 ### 2. Treinamento de Modelo com AutoML
 - **Utilização do AutoML para treinar um modelo de previsão**:
   - Criação de um novo trabalho de AutoML com configurações específicas.
-  - Escolha do tipo de tarefa como Regressão e uso do conjunto de dados `bike-rentals`.
+  - Tipo de tarefa como Regressão e uso do conjunto de dados `bike-rentals`.
   - Configuração de métricas, algoritmos permitidos e limites para o treinamento.
 
 ### 3. Revisão do Melhor Modelo
 - **Análise do modelo mais eficiente treinado pelo AutoML**:
-  - Observação das métricas e gráficos de desempenho, como resíduos e valores previstos vs. reais.
-
-### 4. Implantação e Teste do Modelo
-- **Implantação do modelo como um serviço web**:
-  - Uso de uma Instância de Container do Azure com autenticação.
-- **Teste do serviço implantado**:
-  - Execução de um teste com dados de entrada específicos e revisão dos resultados preditos.
+  - Observação das métricas e gráficos de desempenho, como resíduos e valores previstos vs. reais, conforme as imagens em anexos.
 
 
 ### Imagens e Validação
