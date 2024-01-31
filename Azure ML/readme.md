@@ -32,6 +32,6 @@ O exercício completo é estimado para ser concluído em aproximadamente 30 minu
 
 
 ### Imagens e Validação
-![Validacao1](images/AzureML-1.png.png)
+![Validacao1](./images/AzureML-1.png)
 
-![Validacao2](images/AzureML-2.png.png)
+![Validacao2](./images/AzureML-2.png)
