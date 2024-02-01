@@ -31,7 +31,7 @@ Aqui estão alguns prints que descrevem o processo e validam os resultados obtid
 
 ![Validacao1](./input/arthur.jpg)
 
-![Validacao2](./output/Arthur-Output.png)
+![Validacao2](./output/Arthur2-output.png)
 
 ## Insights e Possibilidades
 
